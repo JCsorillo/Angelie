@@ -1,0 +1,12 @@
+# robots.txt for https://angelieariolanisucics.site
+
+User -agent: Googlebot
+Allow: /
+
+# Specify the location of the sitemap
+Sitemap: https://angelieariolanisucics.site/sitemap.xml
+
+# Allow access to the site.webmanifest
+Allow: /site.webmanifest
+
+# Last updated on November 29, 2024

@@ -1,0 +1,16 @@
+{
+    "name": "Angelie Ariola - NISU | CICS",
+    "short_name": "Angelie Ariola",
+    "start_url": "https://angelieariolanisucics.site/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#e6a756",
+    "description": "Official site of Angelie Ariola, an IT student at Northern Iloilo State University.",
+    "icons": [
+        {
+            "src": "assets/favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        }
+    ]
+}
